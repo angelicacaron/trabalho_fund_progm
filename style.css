@@ -1,0 +1,96 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+#header {
+  background-color: pink;
+  margin-left: 175px;
+  margin-right: 175px;
+  padding: 30px;
+  text-align: center;
+}
+
+#link1 {
+  background-color: none;
+  margin-left: 175px;
+  margin-right: 175px;
+  padding: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+
+#Logo, #menu {
+  padding: 15px;
+}
+
+#header a:link, #header a:visited{
+  color:black;
+  padding: 8px 12px;
+}
+
+
+
+#conteudo {
+  background-color: none;
+  margin-left: 175px;
+  margin-right: 175px;
+  padding: 30px;
+  text-align: center;
+}
+
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+form {
+  font-family: sans-serif;
+  font-size: 15px;
+  max-width: 500px;
+  margin-left: 175px;
+  margin-right: 175px; 
+  text-decoration: none; 
+}
+
+h1 {
+  margin-bottom: 20px;
+  margin-left: 50px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+
+input, textarea {
+  width: 200px;
+  padding: 10px;
+  color: black;
+  margin-left: 20px;
+  margin-top: 30px;
+  border: 1px solid;
+}
+
+
+.enviar {
+  background-color:
+  height: 40px;
+  width: 100px;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 1px solid;
+  color: black;
+}
+
+textarea {
+  width: 400px;
+  height: 120px;
+  line-height: 20px;
+  max-width: 400px;
+}
+
+form label {
+  margin-left: 20px;
+  color: #FFFFFF;
+  font-weight: bold;
+}
